@@ -4,7 +4,6 @@ This project is a YouTube clone with a redesigned user interface using React, Re
 
 #### Features
 <ul>
-  <li>User authentication and registration</li>
   <li>Browse and search for videos</li>
   <li>Like, comment, and share videos</li>
   <li>Live stream with live chat functionality</li>
